@@ -4,7 +4,7 @@ This is a simple RAG based on the home page of [Raisa](https://www.raisa.com/) w
 
 ## Usage 
 
-You can use it to answer specific questions and the model answer based on the content scarped from the website
+You can use it to answer specific questions and the model answers based on the content scraped from the website
 
 ### Examples:
 Question 1: What is Raisa?
