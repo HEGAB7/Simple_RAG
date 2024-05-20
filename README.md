@@ -16,6 +16,6 @@ Question 2: What are Raisa Values?
 ## Future work
 
 1) Expand the scraped documents to be all the website pages
-2) Add QueryEngine agnet
-3) Add Rernaker after retrieving for better results
+2) Add QueryEngine agent
+3) Add Reranker after retrieving for better results
 4) Consider different vector databases
